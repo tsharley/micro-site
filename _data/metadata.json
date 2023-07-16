@@ -1,11 +1,11 @@
 {
-  "title": "microsite",
-  "description": "Opinionated micro front-end that can be used to start a one-page site.",
+  "title": "TSMetallic",
+  "description": "A Landing Page for my Domain",
   "favicon": "/assets/icon.png",
   "share": "/assets/share-image.jpg",
-  "url": "https://voight-microsite.netlify.app",
-  "author": "Danny de Vries",
-  "mail": "hi@dandevri.es",
+  "url": "https://tsmetallic.com",
+  "author": "TSMetallic",
+  "mail": "admin@tsmetallic.com",
   "lang": "en",
-  "social": "@dandevri"
+  "social": ""
 }
